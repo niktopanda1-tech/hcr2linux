@@ -2,18 +2,6 @@
 # Hill Climb Racing 2 for Linux
 
 An unofficial experimental Linux x86_64 launcher for HCR2 1.76.1 (743).
-
-## Features
-
-- All vehicles and tuning parts unlocked.
-- Maximum upgrades and active masteries.
-- Character and vehicle skins included in this game version unlocked.
-- 1,000,000 starting coins.
-- 100,000 starting gems.
-- 100,000 starting Adventure Tokens.
-- Configurable keyboard controls.
-- Fullscreen toggle with F11 and a resizable window.
-
 Starting currency is granted once. Restarting the game does not restore spent currency.
 
 ## Installation on Arch Linux
