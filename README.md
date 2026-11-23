@@ -1,6 +1,7 @@
+
 ````markdown
 # Hill Climb Racing 2 for Linux
-
+#PLS JOIN discord.gg/YD5YUHCzD
 An unofficial experimental Linux x86_64 launcher for HCR2 1.76.1 (743).
 Starting currency is granted once. Restarting the game does not restore spent currency.
 
